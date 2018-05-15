@@ -1,0 +1,15 @@
+requests
+json
+pandas
+numpy
+matplotlib
+ipywidgets
+ipython
+jupyter
+seaborn
+vadersentiment
+pylab
+dash
+plotly
+jupyter_dashboards
+
