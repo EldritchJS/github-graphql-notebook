@@ -1,5 +1,4 @@
 requests
-json
 pandas
 numpy
 matplotlib
@@ -8,7 +7,7 @@ ipython
 jupyter
 seaborn
 vadersentiment
-pylab
+scipy
 dash
 plotly
 jupyter_dashboards
