@@ -2,15 +2,16 @@
 
 ## Quickstart ##
 
-`sh quickstart.sh`
+```bash
+sh quickstart.sh
+```
 
 or
 
-
-`pip install -r requirements.txt`
-
-`jupyter dashboards quick-setup --sys-prefix`
-
-`jupyter notebook`
+```bash
+pip install -r requirements.txt
+jupyter dashboards quick-setup --sys-prefix
+jupyter notebook
+```
 
 
